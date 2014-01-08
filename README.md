@@ -8,6 +8,8 @@ Ajude seus colegas compartilhando suas experiências! Doe seus 20 centavos! (E t
 
 	> Ex: `javascript.md`, `nodejs.md`, `html.md`, etc...
 
+* Após criar os arquivos, copie as perguntas do [Padrão Evangelista](https://github.com/eoop/evangelist#padr%C3%A3o-evangelista) dentro dos arquivos e responda-as! Pronto! Você acaba de salvar meses, talvez anos de busca de outro colega!
+
 	**OBS:** Seria muito interessante também a evangelização em relação as ferramentas utilizadas!
 
 # Como Usar?
