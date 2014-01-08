@@ -59,3 +59,7 @@ A ideia é colocarmos os selos na página inicial (README) do evangelista, para 
 **Ex:**
 
 ![Js Evangelist](img/js-evangelist.png)
+
+# Colaboradores
+
+* [Eric Oliveira](https://github.com/eoop/eo_op)
