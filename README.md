@@ -56,4 +56,6 @@ A ideia é colocarmos os selos na página inicial (README) do evangelista, para 
 
 > **OBS**: Ajude-nos a desenvolver os selos e um logo mais dahora =D
 
-Ex: ![Js Evangelist](img/js-evangelist.png)
+**Ex:**
+
+![Js Evangelist](img/js-evangelist.png)
