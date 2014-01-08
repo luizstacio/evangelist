@@ -46,9 +46,9 @@ Sugestões de tópicos interessantes para serem abordados no seu trabalho evange
 
 **Materiais de referência para**:
 
-	* Iniciante:
-	* Intermediário:
-	* Avançado:
+* Iniciante:
+* Intermediário:
+* Avançado:
 
 # Selo Envagelista (não implementado)
 
