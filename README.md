@@ -14,6 +14,12 @@ Ajude seus colegas compartilhando suas experiências! Doe seus 20 centavos! (E t
 
 Após clonar o projeto, altere o README.md para que o mesmo contenha apenas os links para cada arquivo correspondente ao assunto evangelizado. Caso deseje, coloque uma saudação inicial e demais informações.
 
+Criando um arquivo para cada assunto, no README você irá referênciá-los aos arquivos na sua pasta.
+
+**Ex:** 
+* [JavaScript](javascript.md)
+* [Node.js](nodejs.md)
+
 > **OBS:** Implantaremos os selos do evangelizador para que fique também na página inicial.
 
 # Padrão Evangelista
