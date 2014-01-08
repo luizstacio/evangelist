@@ -1,1 +1,3 @@
-![Evangelist](http://i.imgur.com/WpATvCE.png)
+![Evangelist](img/evangelist-logo.png)
+
+![Js Evangelist](img/js-evangelist.png)
