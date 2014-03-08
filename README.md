@@ -1,5 +1,7 @@
 ![Evangelist](img/evangelist-logo.png)
 
+# ... em breve, uma nova abordagem =)
+
 Ajude seus colegas compartilhando suas experiências! Doe seus 20 centavos! (E também ajude-se em não mais ter que repetir sempre as mesmas coisas para os novatos...)
 
 # Como Ajudar?
